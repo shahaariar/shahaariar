@@ -2,6 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,55:1565C0,100:00A98F&height=220&section=header&text=Md%20Shahariar%20Islam%20Shanto&fontSize=37&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=M.S.%20Student%20%7C%20Graduate%20Teaching%20Assistant%20%7C%20RF%20Researcher&descAlignY=57&descSize=16)
 
+<img src="assets/profile-photo.jpg" width="190" alt="Md Shahariar Islam Shanto" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3200&pause=900&color=1565C0&center=true&vCenter=true&width=800&lines=Antenna+Design+%7C+RF+Power+Harvesting;Rectenna+Systems+%7C+Wireless+Power+Transfer;Autonomous+Systems+%7C+Edge+Intelligence)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahariar_Shanto-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shahariarshanto/)
