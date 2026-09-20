@@ -3,7 +3,6 @@
 <h1>Md Shahariar Islam Shanto</h1>
 <p>M.S. Student | Graduate Teaching Assistant | RF Researcher</p>
 
-<img src="https://github.com/shahaariar/shahaariar/raw/refs/heads/main/assets/profile-photo-circle.jpg" width="190" alt="Md Shahariar Islam Shanto" />
 
 <p><strong>Antenna Design</strong> &nbsp;|&nbsp; <strong>RF Power Harvesting</strong> &nbsp;|&nbsp; <strong>Rectenna Systems</strong> &nbsp;|&nbsp; <strong>Wireless Power Transfer</strong></p>
 
