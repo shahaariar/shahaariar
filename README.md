@@ -4,7 +4,7 @@
 
 <img src="assets/profile-photo-circle.png" width="190" alt="Md Shahariar Islam Shanto" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3200&pause=900&color=1565C0&center=true&vCenter=true&width=800&lines=Antenna+Design+%7C+RF+Power+Harvesting;Rectenna+Systems+%7C+Wireless+Power+Transfer;Autonomous+Systems+%7C+Edge+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3200&pause=900&color=1565C0&center=true&vCenter=true&width=800&height=45&lines=Antenna+Design+%7C+RF+Power+Harvesting;Rectenna+Systems+%7C+Wireless+Power+Transfer;Autonomous+Systems+%7C+Edge+Intelligence)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahariar_Shanto-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shahariarshanto/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahariar.jkkniu.eee@gmail.com)
