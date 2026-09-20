@@ -1,8 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,55:1565C0,100:00A98F&height=220&section=header&text=Md%20Shahariar%20Islam%20Shanto&fontSize=37&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=M.S.%20Student%20%7C%20Graduate%20Teaching%20Assistant%20%7C%20RF%20Researcher&descAlignY=57&descSize=16)
+<h1>Md Shahariar Islam Shanto</h1>
+<p>M.S. Student | Graduate Teaching Assistant | RF Researcher</p>
 
-<img src="assets/profile-photo-circle.png" width="190" alt="Md Shahariar Islam Shanto" />
+<img src="https://raw.githubusercontent.com/shahaariar/shahaariar/main/assets/profile-photo-circle.png" width="190" alt="Md Shahariar Islam Shanto" />
 
 <p><strong>Antenna Design</strong> &nbsp;|&nbsp; <strong>RF Power Harvesting</strong> &nbsp;|&nbsp; <strong>Rectenna Systems</strong> &nbsp;|&nbsp; <strong>Wireless Power Transfer</strong></p>
 
